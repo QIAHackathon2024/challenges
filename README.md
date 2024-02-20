@@ -1,5 +1,7 @@
 # QIA 2024 February Hackathon Challenge Submissions
 
+This repository contains links to the SquidASM programs created by the teams during the event.
+
 ## Challenge 1 - Secure payments
 **Delft node submission:**
   https://github.com/iagobkstar/hackathon2024-secure-payment-delft
