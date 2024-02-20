@@ -1,6 +1,8 @@
 # QIA 2024 February Hackathon Challenge Submissions
 
 ## Challenge 1 - Secure payments
+**Delft node submission:**
+  https://github.com/iagobkstar/hackathon2024-secure-payment-delft
 
 ## Challenge 2 - BQC/Grover
 
