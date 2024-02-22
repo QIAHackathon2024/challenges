@@ -18,5 +18,7 @@ This repository contains links to the SquidASM programs created by the teams dur
 ## Challenge 2 - BQC/Grover
 
 ## Challenge 3 - Extending QKD
+**Delft node submission:**
+  https://github.com/ArthurWitt/QIAHackathon
 
 ## Challenge 4 - Leader election
