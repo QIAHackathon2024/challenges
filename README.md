@@ -16,6 +16,8 @@ This repository contains links to the SquidASM programs created by the teams dur
   https://github.com/Ilie-Cristi/Secure_Payments_QIA_Hackathon
 
 ## Challenge 2 - BQC/Grover
+**Dresden node submission:**
+  https://github.com/MiladGhadimi/QIA-Hackathon-2024
 
 ## Challenge 3 - Extending QKD
 **Delft node submission:**
